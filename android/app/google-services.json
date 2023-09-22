@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181584764647",
+    "project_id": "polyglotpro-790a0",
+    "storage_bucket": "polyglotpro-790a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181584764647:android:42c112236199717649cc42",
+        "android_client_info": {
+          "package_name": "com.polyglotpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0qAV3ncbnFj_MornfoA1NxOBEQ-wM-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
